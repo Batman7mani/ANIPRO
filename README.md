@@ -17,7 +17,6 @@ ANIPRO is a simple and aesthetic anime streaming website built using **pure HTML
 ##  Challenges Faced
 
 - Debugging video playback issues due to incorrect file paths
-- Getting subtitles to work with `.vtt` files
 - Adjusting CSS for different screen sizes
 - Uploading large video files (and realizing GitHub isn't ideal for that)
 
