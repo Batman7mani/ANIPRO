@@ -1,31 +1,51 @@
+# ANIPRO – Anime Streaming Interface (Frontend Project)
 
-# ANIPRO - Anime Streaming Website
+**ANIPRO** is a fully responsive anime streaming website interface built to replicate the structure and design of a real-world OTT platform. It allows users to view episodes, read summaries, and explore anime content in a clean, visually engaging layout.
 
-ANIPRO is a simple and aesthetic anime streaming website built using **pure HTML and CSS**. It showcases popular anime content in a clean, static layout — no frameworks, no JavaScript (yet!). This is my **first-year personal project** as I begin my journey into web development.
+## Purpose of Development
 
----
+This project was created to:
+- Strengthen my frontend development skills using only HTML and CSS.
+- Practice building multi-section page layouts and media-focused UIs.
+- Explore UI/UX principles by mimicking real streaming platform behavior.
+- Improve responsive design techniques without using frameworks.
 
-## Features
+## Key Features
 
--  Embedded anime episodes using the `<video>` tag
--  Poster images for video thumbnails
--  Fully responsive and visually styled using CSS
--  Basic audio support and future subtitle integration
--  Clean project structure and semantic HTML5
+- Structured episode panel with individual buttons for navigation.
+- Video container with layout adaptability for mobile and desktop screens.
+- Static review and comment sections for visual feedback simulation.
+- Recommendation area styled to reflect common OTT experiences.
+- Responsive design for smooth experience on all screen sizes.
 
----
+## Technologies Used
 
-##  Challenges Faced
+- **HTML** – Semantic structure, layout containers, and content.
+- **CSS** – Styling, responsiveness, layout alignment, and animations.
+- **Netlify** – Hosting the live project with instant deployment.
 
-- Debugging video playback issues due to incorrect file paths
-- Adjusting CSS for different screen sizes
-- Uploading large video files (and realizing GitHub isn't ideal for that)
+## What I Learned
 
----
+- Creating complex grid and flex layouts from scratch.
+- Handling element stacking and spacing for different screen resolutions.
+- Using pure CSS to simulate interactivity and flow in a multimedia UI.
+- Designing responsive UIs without relying on JavaScript or frameworks.
+- Debugging mobile layout issues and optimizing view hierarchy.
 
-##  What I Learned
+## Challenges Faced
 
-- How to structure a project using only HTML and CSS
-- Embedding videos with `<video>` and adding subtitles using `<track>`
-- Working with responsive layouts and background images
-- Hosting code on GitHub and managing repositories
+- Structuring elements so that they adapt across devices consistently.
+- Maintaining visual clarity while using only HTML/CSS (without JS logic).
+- Avoiding layout collisions and overflow on smaller screens.
+- Creating a realistic OTT-like UI without real backend data or logic.
+
+## Live Project
+
+You can view the live deployed version of ANIPRO here:  
+**[https://glistening-gingersnap-1388f6.netlify.app](https://glistening-gingersnap-1388f6.netlify.app)**
+
+## Future Improvements
+
+- Add a search bar and filters for anime categories.
+- Implement a backend or local storage for watch history and user data.
+- Introduce dark mode toggle and better accessibility options.
