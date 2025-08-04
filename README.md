@@ -42,7 +42,7 @@ This project was created to:
 ## Live Project
 
 You can view the live deployed version of ANIPRO here:  
-**[https://glistening-gingersnap-1388f6.netlify.app](animei.netlify.app)**
+**[https://glistening-gingersnap-1388f6.netlify.app](https://animei.netlify.app/)**
 
 ## Future Improvements
 
