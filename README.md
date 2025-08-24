@@ -42,7 +42,7 @@ This project was created to:
 ## Live Project
 
 You can view the live deployed version of ANIPRO here:  
-**[https://animei.netlify.app/](https://animei.netlify.app/)**
+**[ANIPRO](https://animei.netlify.app/)**
 
 ## Future Improvements
 
